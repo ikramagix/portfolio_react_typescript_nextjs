@@ -8,9 +8,9 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   metadataBase: new URL(
-    "https://vercel.netflify.prod.app"
+    "https://ikramagicolio.vercel.app/"
   ),
-  title: ":portfolio | Ikrame Saadi | FullStack Developer | @ikramagic on Github",
+  title: "a:portfolio | Ikrame Saadi | FullStack Developer | @ikramagic on Github",
   description: "Developer Portfolio",
   keywords: ["Developer", "Portfolio", "Fullstack", "Front-end", "Back-end", "Frontend", "Backend", "Developer Portflio", "ikramagic", "ikrame saadi"],
   openGraph: {
