@@ -35,7 +35,7 @@ const Banner: React.FC = () => {
       </span>
       </p>
       <p className="my-5 text-gray-200">
-        Explore to get a sense of my balance between
+        Come get a sense of my balance between
         <span className="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-orange-500 to-red-500"> innovation, precision & creativity.</span>
       </p>
       <h3 className="text-7xl font-bold">🌞</h3>
@@ -43,7 +43,7 @@ const Banner: React.FC = () => {
         onClick={() => window.open("mailto:ikrame.saadi@gmail.com")}
         className="mx-auto mt-4 hover:bg-white rounded-3xl text-white font-semibold hover:text-black py-3 px-10 border border-white hover:border-transparent transition-colors duration-300"
       >
-        Let's discuss your fantastic idea and make it come to reality!
+        Let&#39;s discuss your fantastic idea and make it come to reality!
       </button>
     </div>
   );

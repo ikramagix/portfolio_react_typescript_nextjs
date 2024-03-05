@@ -25,8 +25,8 @@ const Projects: React.FC<{}> = () => {
                   Allô... 🔎 Chiné ?
                 </p>
                 <p className="text-gray-500 text-[10px]">
-                  Aren't you fed up with the Netflix recommendations that keep
-                  l♾️ping through the same shows you've already watched 100
+                  Aren&#39;t you fed up with the Netflix recommendations that keep
+                  l♾️ping through the same shows you&#39;ve already watched 100
                   times ?
                 </p>
               </div>
@@ -67,7 +67,7 @@ const Projects: React.FC<{}> = () => {
                   Locavelow is a French bike rental platform for private
                   individuals. The aim is to facilitate connections between
                   anyone that owns a bike and potential cyclists (casual, urban,
-                  & rural ), while promoting sustainable mobility.
+                  & rural), while promoting sustainable mobility.
                 </p>
               </div>
             </div>
@@ -83,9 +83,9 @@ const Projects: React.FC<{}> = () => {
                 <p className="text-white font-semibold text-xl">ETCHEBEAST</p>
                 <p className="text-gray-500 text-[10px]">
                   ETCHEBEAST ©, in a decidedly tongue-in-cheek manner, is the
-                  universe's foremost purveyor of Red Velvet cakes that's
-                  reportedly the darling of New England's aristocracy.
-                  Terrestrials, I'm afraid, are rather out of luck, as this
+                  universe&#39;s foremost purveyor of Red Velvet cakes that&#39;s
+                  reportedly the darling of New England&#39;s aristocracy.
+                  Terrestrials, I&#39;m afraid, are rather out of luck, as this
                   celestial confectionery caters exclusively to an
                   extraterrestrial clientele. One is invited to merrily wonder
                   what this piece of cake tastes like, does it audaciously marry
