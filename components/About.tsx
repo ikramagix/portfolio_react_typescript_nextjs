@@ -14,7 +14,7 @@ const About: React.FC<{}> = () => {
         </p>
         <p className="text-gray-300 text-center ">
         I am a passionate full-stack web developer who finds joy in the perfect blend of logic and creativity. </p>
-        <p className="text-gray-300 text-center ">A digital polyglot fluent in HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL, and JavaScript. </p>
+        <p className="text-gray-300 text-center ">A digital polyglot fluent in HTML, CSS, JavaScript, React, Ruby, Ruby on Rails, SQL and constantly learning. </p>
         <p className="text-gray-300 text-center ">I am driven by the desire to turn ideas into functional applications, stimulating user experience, pushing the boundaries of human imagination.
         </p>
       </div>
