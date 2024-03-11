@@ -53,7 +53,7 @@ const Projects: React.FC<{}> = () => {
         </div>
         <div className="flex-col flex md:flex-row ">
           <Link
-            href="https://locavelow.fr/"
+            href="https://www.locavelow.fr/"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
