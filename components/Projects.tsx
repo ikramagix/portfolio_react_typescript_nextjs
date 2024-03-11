@@ -53,7 +53,7 @@ const Projects: React.FC<{}> = () => {
         </div>
         <div className="flex-col flex md:flex-row ">
           <Link
-            href="https://locavelik-115195375a5a.herokuapp.com/"
+            href="https://locavelow.fr/"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
@@ -61,7 +61,7 @@ const Projects: React.FC<{}> = () => {
             <div className="flex-row flex mb-5">
               <div className=" p-3 ">
                 <p className="text-white font-semibold text-xl">
-                  Locavelow : A bike rental marketplace
+                  Locavelow : A bike rental marketplace made in France
                 </p>
                 <p className="text-gray-500 text-[10px]">
                   Locavelow is a French bike rental platform for private
