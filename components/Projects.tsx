@@ -17,8 +17,8 @@ const Projects: React.FC<{}> = () => {
           >
             <div className="flex-row flex mb-5">
               <div className=" p-3 ">
-                <p className="text-white font-semibold text-xl">
-                  Locavelow : A bike rental marketplace 🚴🏻‍♀️
+              <p className="text-white font-semibold text-xl">
+                🚴🏻‍♀️ Locavelow : A bike rental marketplace
                 </p>
                 <p className="text-gray-500 text-[10px]">
                   Locavelow is a French bike rental platform for private
@@ -37,8 +37,8 @@ const Projects: React.FC<{}> = () => {
           >
             <div className="flex-row flex mb-5">
               <div className="p-3 ">
-                <p className="text-white font-semibold text-xl">
-                  Inspagram: Unsplash API Random Image Generator with Javascript
+              <p className="text-white font-semibold text-xl">
+                📷 Inspagram: Unsplash API Random Image Generator with Javascript
                   & React
                 </p>
                 <p className="text-gray-500 text-[10px]">
@@ -58,15 +58,15 @@ const Projects: React.FC<{}> = () => {
           >
             <div className="flex-row flex mb-5">
               <div className="p-3">
-                <p className="text-white font-semibold text-xl">
-                  Allô... Chiné ? 🔎
+              <p className="text-white font-semibold text-xl">
+                🎥 Allô... Chiné ?
                 </p>
                 <p className="text-gray-500 text-[10px]">
                   Everyone deserves a more personalized, varied, and exciting
                   viewing experience, and Allochiné is designed to break the
                   monotony and introduce you to a world of content you&#39;ll
                   love but might never have discovered otherwise. 
-                  Because why settle for watching the same shows on a loop when there&#39;s a vast world of untapped entertainment waiting for you?
+                  Because why settle for watching the same shows/movies on a loop when there&#39;s a vast world of untapped entertainment waiting for you ?
                 </p>
               </div>
             </div>
@@ -79,8 +79,8 @@ const Projects: React.FC<{}> = () => {
           >
             <div className="flex-row flex mb-5">
               <div className="p-3">
-                <p className="text-white font-semibold text-xl">
-                  LA REΣTAVERNE
+              <p className="text-white font-semibold text-xl">
+                🍽️ LA REΣTAVERNE
                 </p>
                 <p className="text-gray-500 text-[10px]">
                   A minimalist dynamic website for a Cypriot traditional
@@ -91,7 +91,7 @@ const Projects: React.FC<{}> = () => {
           </Link>
         </div>
       </div>
-      <h3 className="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-orange-400 text-center text-6xl pt-[35px]">
+      <h3 className="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-orange-400 text-center text-6xl pt-[25px]">
         “A step towards what you fear is a mile towards mastering it”{" "}
       </h3>
     </section>
