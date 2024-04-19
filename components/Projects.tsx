@@ -91,7 +91,7 @@ const Projects: React.FC<{}> = () => {
           </Link>
         </div>
       </div>
-      <h3 className="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-orange-400 text-center text-6xl pt-[25px]">
+      <h3 className="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-teal-500 to-cyan-400 text-center text-6xl pt-[25px]">
         “A step towards what you fear is a mile towards mastering it”{" "}
       </h3>
     </section>

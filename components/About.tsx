@@ -9,7 +9,7 @@ const About: React.FC<{}> = () => {
     >
       <div className="flex flex-col  justify-around flex-wrap items-center   max-w-[900px]">
         <h1 className="text-white font-semibold text-6xl"> Who am I ?</h1>
-        <p className=" tracking-[0.5em] text-transparent font-light pb-5  bg-clip-text bg-gradient-to-r from-orange-700 to-yellow-500  text-1xl">
+        <p className=" tracking-[0.5em] text-transparent font-light pb-5  bg-clip-text bg-gradient-to-r from-teal-700 to-cyan-500  text-1xl">
           A true tech enthusiast with a can-do attitude
         </p>
         <p className="text-gray-300 text-center ">
