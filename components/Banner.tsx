@@ -8,21 +8,21 @@ type PhraseWithColor = {
 };
 
 const phrasesWithColors: PhraseWithColor[] = [
-  { phrase: "Είμαι Ικραμ Σααντι", gradient: "bg-gradient-to-r from-teal-500 to-cyan-500" },
-  { phrase: "I am Ikram Saadi", gradient: "bg-gradient-to-r from-teal-500 to-cyan-600" },
-  { phrase: "أنا إكرام سعدي", gradient: "bg-gradient-to-r from-cyan-500 to-teal-600" },
-  { phrase: "Je suis Ikrame Saadi", gradient: "bg-gradient-to-r from-teal-600 to-cyan-600" },
+  { phrase: "Είμαι Ικραμ Σααντι", gradient: "bg-gradient-to-r from-green-500 to-red-500" },
+  { phrase: "I am Ikram Saadi", gradient: "bg-gradient-to-r from-red-600 to-orange-500" },
+  { phrase: "أنا إكرام سعدي", gradient: "bg-gradient-to-r from-orange-500 to-purple-600" },
+  { phrase: "Je suis Ikrame Saadi", gradient: "bg-gradient-to-r from-pruple-600 to-teal-600" },
   { phrase: "Soy Ikram Saadi", gradient: "bg-gradient-to-r from-cyan-600 to-teal-500" },
-  { phrase: "Ich bin Ikram Saadi", gradient: "bg-gradient-to-r from-teal-500 to-teal-600" },
-  { phrase: "Io sono Ikram Saadi", gradient: "bg-gradient-to-r from-cyan-600 to-cyan-500" },
-  { phrase: "Eu sou Ikram Saadi", gradient: "bg-gradient-to-r from-teal-600 to-cyan-500" },
+  { phrase: "Ich bin Ikram Saadi", gradient: "bg-gradient-to-r from-teal-200 to-cyan-600" },
+  { phrase: "Io sono Ikram Saadi", gradient: "bg-gradient-to-r from-teal-600 to-cyan-200" },
   { phrase: "Я Икрам Саади", gradient: "bg-gradient-to-r from-cyan-500 to-teal-500" },
-  { phrase: "我是 Ikram Saadi", gradient: "bg-gradient-to-r from-cyan-600 to-teal-600" },
-  { phrase: "私はイクラム・サーディです", gradient: "bg-gradient-to-r from-teal-500 to-cyan-600" },
-  { phrase: "나는 이크람 사디이다", gradient: "bg-gradient-to-r from-cyan-600 to-cyan-500" },
-  { phrase: "Ik ben Ikram Saadi", gradient: "bg-gradient-to-r from-teal-600 to-cyan-600" },
-  { phrase: "Ben Ikram Saadi", gradient: "bg-gradient-to-r from-cyan-500 to-teal-500" },
-  { phrase: "Jag är Ikram Saadi", gradient: "bg-gradient-to-r from-teal-500 to-cyan-500" }
+  { phrase: "我是 Ikram Saadi", gradient: "bg-gradient-to-r from-cyan-400 to-teal-600" },
+  { phrase: "私はイクラム・サーディです", gradient: "bg-gradient-to-r from-red-600 to-yellow-800" },
+  { phrase: "나는 이크람 사디이다", gradient: "bg-gradient-to-r from-yellow-200 to-red-600" },
+  { phrase: "Ik ben Ikram Saadi", gradient: "bg-gradient-to-r from-white-600 to-cyan-600" },
+  { phrase: "Ben Ikram Saadi", gradient: "bg-gradient-to-r from-cyan-500 to-green-500" },
+  { phrase: "Jag är Ikram Saadi", gradient: "bg-gradient-to-r from-orange-500 to-yellow-500" },
+  { phrase: "Eu sou Ikram Saadi", gradient: "bg-gradient-to-r from-teal-600 to-cyan-500" }
 ];
 
 
@@ -51,7 +51,7 @@ const Banner: React.FC = () => {
         Come get a sense of my balance between
         <span className="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-purple-600"> precision, innovation & creativity.</span>
       </p>
-      <h3 className="text-7xl font-bold">🌞</h3>
+      <h3 className="text-7xl font-bold">🌊</h3>
       <button
         onClick={() => window.open("mailto:ikrame.saadi@gmail.com")}
         className="mx-auto mt-4 hover:bg-white rounded-3xl text-white font-semibold hover:text-black py-3 px-10 border border-white hover:border-transparent transition-colors duration-300"
@@ -63,3 +63,4 @@ const Banner: React.FC = () => {
 };
 
 export default Banner;
+

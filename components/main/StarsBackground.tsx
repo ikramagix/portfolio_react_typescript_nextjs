@@ -4,7 +4,7 @@ import React, { useState, useRef, Suspense } from "react";
 import { Canvas, useFrame } from "@react-three/fiber";
 import { Points, PointMaterial } from "@react-three/drei";
 // @ts-ignore
-import * as random from "maath/random/dist/maath-random.esm";
+import * as random from "math/random/dist/maath-random.esm";
 
 const StarBackground = (props: any) => {
   const ref: any = useRef();
@@ -22,8 +22,8 @@ const StarBackground = (props: any) => {
       <Points ref={ref} positions={sphere} stride={3} frustumCulled {...props}>
         <PointMaterial
           transparent
-          color="#6366F1"
-          size={0.002}
+          color="#007EA7"
+          size={0.222}
           sizeAttenuation={true}
           dethWrite={false}
         />
