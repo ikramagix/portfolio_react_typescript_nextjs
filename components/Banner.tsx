@@ -8,20 +8,20 @@ type PhraseWithColor = {
 };
 
 const phrasesWithColors: PhraseWithColor[] = [
-  { phrase: "Είμαι Ικραμ Σααντι", gradient: "bg-gradient-to-r from-green-500 to-red-500" },
-  { phrase: "I am Ikram Saadi", gradient: "bg-gradient-to-r from-red-600 to-orange-500" },
-  { phrase: "أنا إكرام سعدي", gradient: "bg-gradient-to-r from-orange-500 to-purple-600" },
+  { phrase: "Είμαι Ικραμ Σααντι", gradient: "bg-gradient-to-r from-teal-600 to-cyan-200" },
+  { phrase: "I am Ikram Saadi", gradient: "bg-gradient-to-r from-teal-600 to-cyan-200" },
+  { phrase: "أنا إكرام سعدي", gradient: "bg-gradient-to-r from-cyan-500 to-purple-600" },
   { phrase: "Je suis Ikrame Saadi", gradient: "bg-gradient-to-r from-purple-600 to-teal-600" },
   { phrase: "Soy Ikram Saadi", gradient: "bg-gradient-to-r from-cyan-600 to-teal-500" },
   { phrase: "Ich bin Ikram Saadi", gradient: "bg-gradient-to-r from-teal-200 to-cyan-600" },
   { phrase: "Io sono Ikram Saadi", gradient: "bg-gradient-to-r from-teal-600 to-cyan-200" },
   { phrase: "Я Икрам Саади", gradient: "bg-gradient-to-r from-cyan-500 to-teal-500" },
   { phrase: "我是 Ikram Saadi", gradient: "bg-gradient-to-r from-cyan-400 to-teal-600" },
-  { phrase: "私はイクラム・サーディです", gradient: "bg-gradient-to-r from-red-600 to-yellow-800" },
-  { phrase: "나는 이크람 사디이다", gradient: "bg-gradient-to-r from-yellow-200 to-red-600" },
-  { phrase: "Ik ben Ikram Saadi", gradient: "bg-gradient-to-r from-white-600 to-cyan-600" },
-  { phrase: "Ben Ikram Saadi", gradient: "bg-gradient-to-r from-cyan-500 to-green-500" },
-  { phrase: "Jag är Ikram Saadi", gradient: "bg-gradient-to-r from-orange-500 to-yellow-500" },
+  { phrase: "私はイクラム・サーディです", gradient: "bg-gradient-to-r from-cyan-600 to-purple-800" },
+  { phrase: "나는 이크람 사디이다", gradient: "bg-gradient-to-r from-purple-200 to-teal-600" },
+  { phrase: "Ik ben Ikram Saadi", gradient: "bg-gradient-to-r from-teal-600 to-cyan-600" },
+  { phrase: "Ben Ikram Saadi", gradient: "bg-gradient-to-r from-cyan-500 to-teal-500" },
+  { phrase: "Jag är Ikram Saadi", gradient: "bg-gradient-to-r from-cyan-500 to-purple-500" },
   { phrase: "Eu sou Ikram Saadi", gradient: "bg-gradient-to-r from-teal-600 to-cyan-500" }
 ];
 
