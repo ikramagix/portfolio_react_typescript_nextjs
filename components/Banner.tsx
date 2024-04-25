@@ -12,7 +12,7 @@ const phrasesWithColors: PhraseWithColor[] = [
   { phrase: "I am Ikram Saadi", gradient: "bg-gradient-to-r from-teal-600 to-cyan-200" },
   { phrase: "أنا إكرام سعدي", gradient: "bg-gradient-to-r from-cyan-500 to-purple-600" },
   { phrase: "Je suis Ikrame Saadi", gradient: "bg-gradient-to-r from-purple-600 to-teal-600" },
-  { phrase: "Soy Ikram Saadi", gradient: "bg-gradient-to-r from-cyan-600 to-teal-500" },
+  { phrase: "Soy Ikram Saadi", gradient: "bg-gradient-to-r from-cyan-600 to-purple-800" },
   { phrase: "Ich bin Ikram Saadi", gradient: "bg-gradient-to-r from-teal-200 to-cyan-600" },
   { phrase: "Io sono Ikram Saadi", gradient: "bg-gradient-to-r from-teal-600 to-cyan-200" },
   { phrase: "Я Икрам Саади", gradient: "bg-gradient-to-r from-cyan-500 to-teal-500" },
