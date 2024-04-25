@@ -56,14 +56,14 @@ const Footer: React.FC<{}> = () => {
           );
         })}
       </div>
-      <p className=" tracking-[0.5em] text-center text-transparent font-light pb-5  bg-clip-text bg-gradient-to-r from-yellow-700 to-orange-500  text-1xl ">
+      <p className=" tracking-[0.5em] text-center text-transparent font-light pb-5  bg-clip-text bg-gradient-to-r from-cyan-500 to-purple-800  text-1xl ">
           It all started on {formattedSpecificDate}
         </p>
-        <p className=" tracking-[0.5em] text-center text-transparent font-light pb-5  bg-clip-text bg-gradient-to-r from-yellow-700 to-orange-500  text-1xl ">
+        <p className=" tracking-[0.5em] text-center text-transparent font-light pb-5  bg-clip-text bg-gradient-to-r from-purple-700 to-cyan-500  text-1xl ">
           {days} days and {hours} hours spent on that ⌨
         </p>
         
-        <p className=" tracking-[0.5em] text-center text-transparent font-light pb-5  bg-clip-text bg-gradient-to-r from-red-700 to-orange-500  text-1xl "></p>
+        <p className=" tracking-[0.5em] text-center text-transparent font-light pb-5  bg-clip-text text-1xl "></p>
           <p className="text-gray-300 text-center text-sm">
         powered by Freddo Espressos ☕ built with Next.js provided with ❤️ under the Cypriot sunshine 🌞
       </p>
