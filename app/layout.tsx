@@ -10,9 +10,9 @@ export const metadata: Metadata = {
   metadataBase: new URL(
     "https://ikramagicolio.vercel.app/"
   ),
-  title: "a:portfolio | Ikrame Saadi | FullStack Developer | @ikramagic on Github",
+  title: "a:portfolio | Ikrame Saadi | FullStack Developer | @ikramagix on Github",
   description: "Developer Portfolio",
-  keywords: ["Developer", "Portfolio", "Fullstack", "Front-end", "Back-end", "Frontend", "Backend", "Developer Portflio", "ikramagic", "ikrame saadi"],
+  keywords: ["Developer", "Portfolio", "Fullstack", "Front-end", "Back-end", "Frontend", "Backend", "Developer Portflio", "ikramagix", "ikrame saadi"],
   openGraph: {
     title: "Ikrame Saadi",
     description: "FullStack Web Developer",

@@ -1,6 +1,6 @@
 export const Social_Icons = [
   {
-    link: "https://github.com/ikramagic",
+    link: "https://github.com/ikramagix",
     image: "/Github.svg",
     alt: "Github",
   },
