@@ -23,8 +23,12 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
       animation: {
-        spinSlow: 'spin 3s linear infinite',
-        spinSlower: 'spin 5s linear infinite',
+        spinSlow: 'spin 9s linear infinite',
+        spinMediumSlow: 'spin 7s linear infinite',
+        spinMedium: 'spin 5s linear infinite',
+        spinFastMedium: 'spin 3s linear infinite',
+        spinFast: 'spin 2s linear infinite',
+        spinVeryFast: 'spin 1s linear infinite'
       },
     },
   },
