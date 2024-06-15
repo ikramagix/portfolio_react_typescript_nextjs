@@ -57,10 +57,10 @@ const Footer: React.FC<{}> = () => {
         })}
       </div>
       <p className=" tracking-[0.5em] text-center text-transparent font-light pb-5  bg-clip-text bg-gradient-to-r from-cyan-500 to-purple-800  text-1xl ">
-          Since {formattedSpecificDate}
+          since: {formattedSpecificDate}
         </p>
         <p className=" tracking-[0.5em] text-center text-transparent font-light pb-5  bg-clip-text bg-gradient-to-r from-purple-700 to-cyan-500  text-1xl ">
-          on the ⌨ 
+          status: ⌨ing 
         </p>
         
         <p className=" tracking-[0.5em] text-center text-transparent font-light pb-5  bg-clip-text text-1xl "></p>
