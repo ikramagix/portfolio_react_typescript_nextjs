@@ -58,7 +58,7 @@ const Banner: React.FC = () => {
         <span className="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-purple-600"> precision, innovation & creativity.</span>
       </p>
       <button
-        onClick={() => window.open("mailto:ikrame.saadi@gmail.com")}
+        onClick={() => window.open("mailto:hello@ikramagix.com")}
         className=" z-[1]     padding-20  hover:bg-white rounded-3xl  text-white font-semibold hover:text-black py-3 px-10  border-[0.1px] border-white hover:border-transparent "
         >
         Let&#39;s discuss your fantastic idea and make it come to reality!
